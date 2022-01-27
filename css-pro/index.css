@@ -1,0 +1,31 @@
+.header{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.7) ,rgba(0,0,0,0.7)) ,url(../image/bg-login.png)  ;
+}
+.chose{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+
+.form-lg{
+    display: inline-block;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    background-color: rgba(255, 255, 255, 0.551);
+    height: 400px;
+    width: 400px;
+}
+.form-sm{
+    display: inline-block;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    background-color: rgba(255, 255, 255, 0.651);
+    height: 300px;
+    width: 300px;
+    
+}
